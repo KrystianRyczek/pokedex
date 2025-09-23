@@ -34,7 +34,7 @@ This application is designed for Pokémon fans who want to explore, track, and i
    npm run dev
    ```
    ```bash
-   json-server --watch db.json --port 8000
+   npm run start
    ```
 5. To have full access creat, Your acout and have fun
 

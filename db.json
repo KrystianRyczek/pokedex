@@ -11,6 +11,13 @@
       "name": "Olaf",
       "email": "123",
       "password": "123"
+    },
+    {
+      "id": "7986",
+      "username": "asddfasdf",
+      "email": "kryczek89@gmail.com",
+      "password": "Start12!@",
+      "confirmPassword": "Start12!@"
     }
   ],
   "favorites": [
