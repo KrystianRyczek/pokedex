@@ -1,12 +1,40 @@
-# React + Vite
+# Pokedex
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application is designed for Pokémon fans who want to explore, track, and interact with their favorite creatures. Users can browse and review different Pokémon, add them to personalized favorites lists, and track detailed statistics such as battles, performance, and growth. The app also includes a battle feature, allowing players to simulate fights between Pokémon and update their records accordingly. With options to edit and manage Pokémon data, the app offers a complete experience for collectors and battlers alike—combining fun, strategy, and organization in one platform.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+| Front           | Backend       |
+|-----------------|---------------|
+| Html            | JsonServer.js |
+| JavaScript      | open API      |
+| React           |               |
+| React Router    |               |
+| CSS by tailwind |               |
+| Clsx            |               |
+| Swipper         |               |
+|                 |               |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/KrystianRyczek/pokedex
+2. ** Navigate to the project directory:**
+   ```bash
+   cd pokedex
+   ```
+3. ** Install dependencies:**
+   ```bash
+   npm install
+   ```
+4. ** Run the project locally:**
+   ```bash
+   npm run dev
+   ```
+   ```bash
+   npm run start
+   ```
+5. To have full access creat, Your acout and have fun
+
